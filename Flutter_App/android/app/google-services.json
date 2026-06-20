@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "846220520693",
+    "firebase_url": "https://smart-energy-meter-7b5a0-default-rtdb.firebaseio.com",
+    "project_id": "smart-energy-meter-7b5a0",
+    "storage_bucket": "smart-energy-meter-7b5a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846220520693:android:7e3aaee37a32ee5672a9bc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_smart_energy_meter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDva6KR1yG61svvmVDgI-DRqu84jevKjrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
