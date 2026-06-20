@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+You can Download .apk File from Here(Click the link and install the app to your Smart Phone) :- https://drive.google.com/drive/folders/1dszowQJG5Wjq4MNsExZaOYl9nQFblskc?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
